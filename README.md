@@ -1,3 +1,4 @@
 # web-react-three-next
 
-This project was bootstrapped with [`create-r3f-app`](https://github.com/utsuboco/create-r3f-app)
+`yarn`
+`yarn dev`
